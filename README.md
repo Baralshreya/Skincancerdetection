@@ -75,16 +75,6 @@ Layers added:
 
 ---
 
-## 🖼️ Sample Predictions
-
-| Image | True Label | Predicted Label |
-|-------|-------------|-----------------|
-| ![Example1](results/sample1.png) | Melanoma | Melanoma |
-| ![Example2](results/sample2.png) | Nevus | Nevus |
-| ![Example3](results/sample3.png) | BCC | BCC |
-
----
-
 ## 💻 Installation
 
 Clone the repository and install dependencies:
